@@ -85,6 +85,7 @@ An AI-driven expense operations hub that combines receipt intelligence, approval
 
 ## Alternative / Replacement Agent Flow (Proposal Only)
 
+```text
 +----------------------------------------------+
 | Owner Approval UI (Proposal Receipt)         |
 | - Select item                                |
