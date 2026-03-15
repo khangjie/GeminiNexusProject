@@ -1,6 +1,6 @@
-# ExpenseHive Nexus
+# NexusHub
 
-## Project Title (Creative Name)
+## Project Title
 **NexusHub**
 
 An AI-driven expense operations hub that combines receipt intelligence, approval automation, proposal optimization, and analytics into a multi-agent swarm system.
