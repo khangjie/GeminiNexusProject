@@ -137,6 +137,7 @@ An AI-driven expense operations hub that combines receipt intelligence, approval
 | - Replacement item added to receipt          |
 +----------------------------------------------+
 ```
+---
 
 ### A2A Notes
 - Sequential orchestration is used for deterministic pipeline stages.
@@ -144,7 +145,6 @@ An AI-driven expense operations hub that combines receipt intelligence, approval
 - Failures can fall back to direct Gemini execution when ADK orchestration is unavailable.
 - Proposal optimization requires link-backed alternatives before replacement is applied.
 
----
 
 ## Agent Profiles (Role Descriptions)
 
